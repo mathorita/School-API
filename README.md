@@ -22,5 +22,5 @@ A RESTful API built with Django and Django REST Framework to manage students, co
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/School_API.git
+git clone https://github.com/mathorita/School_API.git
 cd School_API
